@@ -9,4 +9,4 @@ BUT
 ### This repository is now outdated!!
 
 The development of this plugin is continued from [this repository](https://github.com/tudelft3d/3DCityDB-Tools-for-QGIS) of TUDelft.
-There, you can find the most up-to-date versions of the "33DCityDB-Tools-for-QGIS".
+There, you can find the most up-to-date versions of the "3DCityDB-Tools-for-QGIS".
